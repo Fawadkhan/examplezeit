@@ -1,2 +1,0 @@
-# examplezeit
-Created with CodeSandbox
